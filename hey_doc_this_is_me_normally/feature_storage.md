@@ -14,7 +14,8 @@ Suggested format:
 
 - **Birth notes** (Paeds only)
   - Free text, content would be advised by a Dr as good context for another?
-  - _36 weeks, C-section, 2kg, ???_
+  - _e.g. 1: 36 weeks, 2kg, C-section, Birmingham Womens Hospital_
+  - _e.g. 2: 24 weeks, 600g, Normal Delivery, Calderdale Royal Hospital & transferred to Leeds, Ventilated for 4 weeks, Oxygen until 37 weeks corrected_ 
 
 - **Previous/recent admissions**
   - Structured brief list of basic info: Date, Hospital, Ward, ward tel, brief reason, Duration, HDU/ICU
